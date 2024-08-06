@@ -1,0 +1,4 @@
+Total keys: 8	Hash Table size: 23
+Collisions using hash 2: 0.25, and collision handling 2: 0
+
+One! Two Three Four Five Six Seven Eight 
